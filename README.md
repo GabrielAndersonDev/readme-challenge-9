@@ -21,6 +21,8 @@
   ## Usage
 
   It is used to generate README.md files for projects.
+  
+  Video on usage instructions: https://drive.google.com/file/d/1qvkQT1CvYiBAWz4iH4__w9Itm4C8VCZ9/view?usp=share_link
 
   ## License
 
